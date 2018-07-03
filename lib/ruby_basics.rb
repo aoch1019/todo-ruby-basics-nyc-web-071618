@@ -19,9 +19,9 @@ def return_a_value(value = "Nice")
 end
 
 def last_evaluated_value
-
+  return expert
 end
 
 def pizza_party
-
+  
 end
